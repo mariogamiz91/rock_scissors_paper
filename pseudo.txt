@@ -1,0 +1,16 @@
+
+
+
+select function of computer
+
+select function of user
+
+playround(player choose, computer shoose)
+
+
+
+
+
+
+
+scissors > paper
